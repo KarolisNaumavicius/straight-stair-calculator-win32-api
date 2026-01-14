@@ -1,0 +1,1 @@
+This C++ program is a practical tool for designing straight staircases. It calculates all necessary step dimensions and ensures the design meets headroom safety standards for daily use. Additionally, the tool provides a total price estimation based on material costs, helping users manage both the construction details and the budget in one simple process.
